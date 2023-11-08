@@ -1,0 +1,10 @@
+{
+  "item.spirits.wisp_food" : "Wisp Food",
+  "item.spirits.wisp_spawn_egg" : "Wisp Spawn Egg",
+  "item.spirits.timed_ender_pearl" : "Timed Ender Pearl",
+
+  "block.spirits.chatty_block": "Chatty Block",
+  "block.spirits.wisp_food_block": "Wisp Food Block",
+
+  "tooltip.spirits.chatty_block" : "A block that speaks!"
+}
